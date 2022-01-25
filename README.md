@@ -2,5 +2,5 @@
 
 <p>Primeiro projeto do bootcamp HTML Web Developer da Digital Innovation One. Pude aplicar conhecimentos adquiridos no módulo de HTML e CSS, além de ver um pouco de CSS Flexbox.</p>
 
-![](C:\Users\Bruno\Desktop\Capturar.PNG)
+![](img\Capturar.PNG)
 
